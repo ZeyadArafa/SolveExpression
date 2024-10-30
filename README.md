@@ -1,7 +1,3 @@
-Sure, here's a README with an overview of your project:
-
----
-
 # Quadratic Equation Solver
 
 This repository contains a simple C# application designed to solve quadratic equations. The application prompts the user to enter the coefficients of a quadratic equation, calculates the roots, and then displays the results.
@@ -67,6 +63,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspired by basic quadratic equation solvers typically introduced in algebra courses.
 
----
-
-Feel free to customize this README to better match your project specifics and preferences.
